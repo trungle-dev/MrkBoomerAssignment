@@ -25,7 +25,7 @@ class Printer
 
     puts "#{space}#{node}"
 
-    return if childs&.empty?
+    return if childs&.empty? || childs.nil?
 
     level += 1
     print_list(childs, level)
