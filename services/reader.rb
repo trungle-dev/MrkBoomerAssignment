@@ -1,3 +1,7 @@
+# frozen_string_literal: true
+
+# Read the file given by the arg path, then pre-process input into a hash with
+# key is parent_id, and childs is a list of items
 class Reader
   attr_reader :result
 

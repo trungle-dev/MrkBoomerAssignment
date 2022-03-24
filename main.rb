@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative './models/item'
 require_relative './services/printer'
 require_relative './services/reader'

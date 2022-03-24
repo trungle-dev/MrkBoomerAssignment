@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# Item class is a blueprint for input, with attrs as label, id, parent_id
 class Item
   attr_reader :label, :id, :parent_id
 

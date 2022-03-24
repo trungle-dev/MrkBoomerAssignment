@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# Printer gets the input as result from reader, then print result to the screen as hierachy -> output
 class Printer
   INDENTED_WIDTH = 2
 
