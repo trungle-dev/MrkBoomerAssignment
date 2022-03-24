@@ -4,7 +4,7 @@ This source code is implemented to solve the problem that is sent to test by Mar
 
 ## Run the code online:
 
-Visit repl [https://replit.com/@trungledev/MrkBoomerAssignment#main.rb]() and click play
+Visit repl https://replit.com/@trungledev/MrkBoomerAssignment#main.rb and click play
 
 ## Approach:
 
